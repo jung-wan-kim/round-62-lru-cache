@@ -1,2 +1,1 @@
-# round-62-lru-cache
-UFC-Harness Round 62: Lru Cache
+# Round 62: Lru Cache\n\n## Spec\nLRU cache O(1) get/put 구현. capacity 초과 시 eviction.
